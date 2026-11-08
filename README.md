@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**O-alnaji/O-alnaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Student interested in software development, problem-solving, and Cyber Security.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 IB Diploma Programme graduate
+- 💻 Passionate about software engineering and computer science
+- ☕ Working with Java and exploring different technologies
+- 📚 Continuously learning and building projects
+
+### Technologies & Tools
+
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### Goals
+
+- Strengthen my programming fundamentals
+- Build practical software projects
+- Explore algorithms and data structures
+- Continue developing my skills as a Computer Science Student
+  
